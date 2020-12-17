@@ -1,0 +1,24 @@
+{
+  "name": "cprestapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamalchelski/cp-rest-api.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "nodejs"
+  ],
+  "author": "mj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamalchelski/cp-rest-api/issues"
+  },
+  "homepage": "https://github.com/jamalchelski/cp-rest-api#readme"
+}
