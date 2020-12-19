@@ -1,3 +1,5 @@
+// koneksi ke database
+
 var mysql = require('mysql');
 
 
