@@ -1,5 +1,5 @@
 // koneksi ke database
-
+// menggunkan dbms mysql
 var mysql = require('mysql');
 
 
